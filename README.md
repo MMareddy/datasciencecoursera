@@ -1,10 +1,8 @@
 datasciencecoursera
 ===================
-mkdir ~/datasciencecoursera
-cd ~/datasciencecoursera
+touch README.md
 git init
-touch README
-git add README
-git commit -m 'first commit'
+git add README.md
+git commit -m "first commit"
 git remote add origin https://github.com/MMareddy/datasciencecoursera.git
 git push -u origin master
